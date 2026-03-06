@@ -1,4 +1,4 @@
-# Wine Quality Classification Using Decision Trees
+# Product Quality Classification Using Decision Trees
 
 ## Overview
 
