@@ -94,7 +94,7 @@ This visualization shows:
 - which features influence predictions
 - the decision paths used to classify wines
 
-![Decision Tree](decisiontree.png)
+![Decision Tree](visuals/decisiontree.png)
 
 ---
 
